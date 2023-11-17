@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <img alt="👋" hight ="55px" width="50px" src = "">, I'm Nohan Ahmed</h1>
+<h1 align="center">Hi <img hight ="55px" width="50px" src = "https://github.com/nohan780/nohan780/blob/9a69df7168b425df51169a68b96b4ea00bb96726/hi.gif">, I'm Nohan Ahmed</h1>
 <p align= "center">
 <a align = "center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=40&duration=6000&pause=1000&color=FF6F39&center=true&vCenter=true&random=false&width=600&lines=Pleasure+to+meet+you....;An+enthusiast+in+data+science;Love+to+help+others+to+learn;I%E2%80%99m+looking+forward+to+working+with+you...." alt="Typing SVG" /></a></p>
 <br>
