@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **any project in Python.**
 
-- 📫 How to reach me **fazilaahmed12@gmail.com**
+- 📫 How to reach me **nohan.ahmed12@gmail.com**
 
 - ⚡ Fun fact **I love cooking👀**
 
